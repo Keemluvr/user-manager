@@ -1,0 +1,18 @@
+{
+  "name": "api-user-manager",
+  "version": "1.0.0",
+  "description": "A restful API for a user management system",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Keila Fernandes <keiladaianefernandes24@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
